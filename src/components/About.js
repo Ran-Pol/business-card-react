@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
   return (
     <div className="About">
-      <h2 className="headingsSections">About</h2>
+      <h2 className="about--section">About</h2>
       <p>
         I am a frontend developer with a particular interest in making things
         simple and automating daily tasks. I try to keep up with security and

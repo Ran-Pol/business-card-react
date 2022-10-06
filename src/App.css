@@ -61,3 +61,40 @@
   background: #5093e2;
   /* shadow/sm */
 }
+
+.About {
+  padding: 0 30px;
+  margin-bottom: 20px;
+}
+
+.about--section {
+  margin-bottom: 10px;
+}
+
+.About p {
+  color: #dcdcdc;
+}
+
+.Interests {
+  padding: 0 30px;
+  margin-bottom: 20px;
+}
+
+.interests--section {
+  margin-bottom: 10px;
+}
+
+.Interests p {
+  color: #dcdcdc;
+}
+
+.footerSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  width: 320px;
+  height: 64px;
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+}
