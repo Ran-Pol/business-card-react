@@ -6,7 +6,7 @@ const Info = () => {
       <img src={imageAbout} alt="Profile" />
       <h1 className="info--name">Randy Polanco</h1>
       <h3 className="info--role">Software Developer</h3>
-      <p className="info--website">randypol.com</p>
+      <p className="info--website">RandyPol.com</p>
 
       <div className="info--button-container">
         <button class="info--button button-email" type="button">
